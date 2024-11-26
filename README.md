@@ -2,6 +2,8 @@
 
 Este é o repositório do front-end do projeto.
 
+![image](https://github.com/user-attachments/assets/6b39f619-b059-4605-b2b4-468de1ec9e49)
+
 **IMPORTANTE:** É necessário ter o [Node.js](https://nodejs.org/) instalado em seu computador antes de executar os comandos de instalação e execução do projeto. Versão recomendada: v20.x.x.
 
 ## PASSO 1: Baixe o código do projeto:
