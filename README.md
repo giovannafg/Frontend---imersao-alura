@@ -49,3 +49,4 @@ Server running at http://localhost:8000
 ```
 
 O projeto estará disponível no endereço http://localhost:8000 e você poderá acessá-lo no navegador de sua preferência.
+"# front" 
