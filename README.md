@@ -1,8 +1,15 @@
 # Alura - Imersão back-end
 
-Este é o repositório do front-end do projeto.
-
 ![image](https://github.com/user-attachments/assets/6b39f619-b059-4605-b2b4-468de1ec9e49)
+
+Cada foto publicada possui uma descrição:
+
+![Captura de tela 2024-11-26 132606](https://github.com/user-attachments/assets/f074386f-fd22-4634-b4de-e7609ebd6285)
+
+![Captura de tela 2024-11-26 132625](https://github.com/user-attachments/assets/9fcaefd1-a2bc-449d-a621-fdd3187e44ca)
+
+![Captura de tela 2024-11-26 132617](https://github.com/user-attachments/assets/febe11c4-efcb-4c8d-a89c-9d2269733586)
+
 
 **IMPORTANTE:** É necessário ter o [Node.js](https://nodejs.org/) instalado em seu computador antes de executar os comandos de instalação e execução do projeto. Versão recomendada: v20.x.x.
 
@@ -40,7 +47,7 @@ Este é o repositório do front-end do projeto.
 
 ## PASSO 3: Execute o projeto para subir o servidor local:
 
-Acesse o terminal (do Visual Studio Code ou outro), certifique-se que esteja exibindo a pasta correta do projeto e execute o comando `npm run dev`. O terminal deverá retornar:
+Acesse o terminal (do Visual Studio Code ou outro), certifique-se que esteja exibindo a pasta correta do projeto e execute o comando `npm run dev`. Antes, certifique que subiu o projeto do back-end (http://localhost:3000/posts). O terminal deverá retornar:
 
 ```
 > dev
